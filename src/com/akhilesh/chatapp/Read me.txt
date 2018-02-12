@@ -1,0 +1,10 @@
+a. to view list of users in chat room
+command: list or list;;
+***************************************************************************************
+b. to send private message
+command: pm;;username;;message 
+Note: (If you are already blocked by the user, you won't be able to send the message)
+***************************************************************************************
+c. to block an user
+command: block;;username
+Note: If the user is already in blocked list, it should say user already in block list.
